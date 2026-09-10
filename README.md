@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=yagofalmeida007-svg)](https://github.com/stats-organization/github-stats-extended)
 <!--
 **yagofalmeida007-svg/yagofalmeida007-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
