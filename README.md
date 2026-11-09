@@ -1,4 +1,10 @@
-## olá Estou cursando Ciência da Computação | 💻 Apaixonado por tecnologia e programação | 🚀 Sempre aberto a aprender, compartilhar conhecimentos, colaborar em projetos e desenvolver novas habilidades.
+## 💻 Estudante de Ciência da Computação | Desenvolvedor Full Stack
+
+🚀 Apaixonado por tecnologia e programação, sempre em busca de novos conhecimentos e desafios.
+
+🤝 Aberto a compartilhar experiências, colaborar em projetos, contribuir com soluções inovadoras e desenvolver continuamente minhas habilidades.
+
+📚 Em constante aprendizado e evolução no universo da tecnologia!
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=yagofalmeida007-svg&show_icons=true&theme=dark_github)](https://github.com/stats-organization/github-stats-extended)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=yagofalmeida007-svg&langs_count=4&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=yagofalmeida007-svg&langs_count=4&theme=dark_github)
 ##
