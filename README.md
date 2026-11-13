@@ -1,6 +1,6 @@
 ## 💻 Estudante de Ciência da Computação | Desenvolvedor Full Stack
 
-🚀 Apaixonado por tecnologia e programação, sempre em busca de novos conhecimentos e desafios.
+🚀 focado em tecnologia e programação, sempre em busca de novos conhecimentos e desafios.
 
 🤝 Aberto a compartilhar experiências, colaborar em projetos, contribuir com soluções inovadoras e desenvolver continuamente minhas habilidades.
 
